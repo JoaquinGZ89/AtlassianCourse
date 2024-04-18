@@ -1,2 +1,5 @@
-print(f"Hola papanatas")
-print(f"Esto es una modificacion")
+for i in range(10):
+    print(i)
+
+
+
